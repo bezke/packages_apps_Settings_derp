@@ -269,4 +269,8 @@
     <string name="swap_capacitive_keys_summary">Anordnung der Tasten für Anwendungsverlauf und Zurück tauschen</string>
     <string name="others_settings_title">Weitere Einstellungen</string>
 
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Beim Einstecken aufwecken</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Beim Anschließen oder Trennen einer Stromquelle den Bildschirm einschalten</string>
+
 </resources>
