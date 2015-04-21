@@ -781,4 +781,8 @@
     <!-- Text shown for the description of the panic option -->
     <string name="power_menu_panic_summary">Activates an emergency panic trigger.</string>
 
+    <!-- Heads-up -->
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">Display priority notifications in a small floating window</string>
+
 </resources>

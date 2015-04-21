@@ -752,4 +752,8 @@
     <!-- Text shown for the description of the panic option -->
     <string name="power_menu_panic_summary">Aktiviert einen Notfall-Panikauslöser.</string>
 
+    <!-- Heads-up -->
+    <string name="heads_up_notifications_enabled_title">Pop-up</string>
+    <string name="heads_up_notifications_enabled_summary">Wichtige Benachrichtigungen in einem kleinen, schwebenden Fenster anzeigen</string>
+
 </resources>
