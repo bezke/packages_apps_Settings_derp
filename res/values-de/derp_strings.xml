@@ -148,4 +148,8 @@
     <string name="keyboard_no_navigation_title">IME-Schaltflächenbereich ausblenden</string>
     <string name="keyboard_no_navigation_summary">IME-Schaltflächenbereich unter der Tastatur ausblenden</string>
 
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Tippen für Standby</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Doppeltippe auf Statusleiste oder Sperrbildschirm, um das Display auszuschalten</string>
+
 </resources>
