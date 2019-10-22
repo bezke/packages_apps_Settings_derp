@@ -615,4 +615,8 @@
     <string name="lockscreen_shortcuts_title">Sperrbildschirm Verknüpfungen</string>
     <string name="lockscreen_shortcuts_summary">Festlegen ob Verknüpfungen angezeigt werden</string>
 
+    <!-- Show Lockscreen shortcuts on secure Lockscreen -->
+    <string name="lockscreen_show_shortcuts_title">Untere Verknüpfungen anzeigen</string>
+    <string name="lockscreen_show_shortcuts_summary">Links-Rechts-Verknüpfungen auf sicheren Sperrbildschirmen anzeigen</string>
+
 </resources>

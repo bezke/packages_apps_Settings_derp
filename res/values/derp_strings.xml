@@ -623,4 +623,8 @@
     <string name="lockscreen_shortcuts_title">Lockscreen shortcuts</string>
     <string name="lockscreen_shortcuts_summary">Customize which shortcuts are displayed</string>
 
+    <!-- Show Lockscreen shortcuts on secure Lockscreen -->
+    <string name="lockscreen_show_shortcuts_title">Show Bottom Shortcuts</string>
+    <string name="lockscreen_show_shortcuts_summary">Show Left-Right Shortcuts on secure lock screens</string>
+
 </resources>
