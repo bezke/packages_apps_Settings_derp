@@ -34,4 +34,7 @@
              (true for some tablets) -->
     <integer name="config_volumeRockerVsDisplayOrientation">1</integer>
 
+    <!-- Whether the given language capitalizes nouns -->
+    <bool name="language_capitalizes_nouns">false</bool>
+
 </resources>
