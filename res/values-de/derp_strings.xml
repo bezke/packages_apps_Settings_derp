@@ -97,4 +97,8 @@
     <string name="proximity_wake_title">Unbeabsichtigtes Aufwecken verhindern</string>
     <string name="proximity_wake_summary">Vor dem Aufwecken des Gerätes Näherungssensor überprüfen</string>
 
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Wischen für Bildschirmfoto</string>
+    <string name="swipe_to_screenshot_summary">Mit drei Fingern wischen, um ein Bildschirmfoto aufzunehmen</string>
+
 </resources>
