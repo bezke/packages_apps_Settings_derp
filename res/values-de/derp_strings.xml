@@ -141,4 +141,9 @@
     <string name="high_touch_sensitivity_title">Hohe Touch-Empfindlichkeit</string>
     <string name="high_touch_sensitivity_summary">Touch-Empfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
 
+    <!-- Navigation bar hint -->
+    <string name="navbar_category">Navigationsleiste</string>
+    <string name="hide_navbar_gesture_bar_title">Gestenleiste ausblenden</string>
+    <string name="hide_navbar_gesture_bar_summary">Blendet die Gestenleiste am unteren Bildschirmrand aus</string>
+
 </resources>
