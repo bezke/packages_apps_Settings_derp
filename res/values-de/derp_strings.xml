@@ -704,4 +704,8 @@
     <!-- Text shown for the description of the panic option -->
     <string name="power_menu_panic_summary">Aktiviert einen Notfall-Panikauslöser.</string>
 
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Netzwerkzugriff erlauben</string>
+    <string name="data_usage_app_restrict_all_summary">Netzwerknutzung aktivieren</string>
+
 </resources>

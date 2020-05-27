@@ -726,4 +726,8 @@
     <!-- Text shown for the description of the panic option -->
     <string name="power_menu_panic_summary">Activates an emergency panic trigger.</string>
 
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Allow network access</string>
+    <string name="data_usage_app_restrict_all_summary">Enable network usage</string>
+
 </resources>
