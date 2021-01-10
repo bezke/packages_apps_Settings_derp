@@ -93,6 +93,13 @@
         android:fragment="com.android.settings.gestures.PowerMenuSettings"
         settings:controller="com.android.settings.gestures.PowerMenuPreferenceController" />
 
+    <Preference
+        android:key="doze_double_tap_summary"
+        android:title="@string/double_tap_title"
+        android:fragment="com.android.settings.gestures.DoubleTapAmbientSettings"
+        settings:userRestriction="no_ambient_display"
+        settings:controller="com.android.settings.gestures.DoubleTapAmbientPreferenceController" />
+		
     <org.derpfest.support.preferences.SystemSettingSwitchPreference
         android:key="status_bar_brightness_control"
         android:title="@string/status_bar_toggle_brightness"
