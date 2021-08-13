@@ -160,4 +160,9 @@
     <string name="gesture_power_button_category_title">Ein-/Aus-Taste</string>
     <string name="gesture_volume_buttons_category_title">Lautstärke-Tasten</string>
 
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Länge der Gestenleiste</string>
+    <string name="short_label">Kurz</string>
+    <string name="long_label">Lang</string>
+
 </resources>
