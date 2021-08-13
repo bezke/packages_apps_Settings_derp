@@ -164,4 +164,9 @@
     <string name="quick_settings_quick_pull_down_title">Schnelleinstellungen schnell herunterziehen</string>
     <string name="quick_settings_quick_pull_down_summary">Die Statusleiste von der rechten Seite nach unten ziehen, um die Schnelleinstellungen anzuzeigen</string>
 
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Länge der Gestenleiste</string>
+    <string name="short_label">Kurz</string>
+    <string name="long_label">Lang</string>
+
 </resources>
