@@ -343,4 +343,8 @@
     <string name="incall_vibrate_call_wait_title">Vibriere beim Anklopfen</string>
     <string name="incall_vibrate_disconnect_title">Vibriere beim Beenden des Anrufs</string>
 
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Inaktivitätsdisplay beim Laden</string>
+    <string name="doze_on_charge_summary">Zeit und Informationen werden ausschließlich beim Laden angezeigt</string>
+
 </resources>
