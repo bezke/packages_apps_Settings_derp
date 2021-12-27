@@ -109,6 +109,7 @@ android_library {
         "kotlin-stdlib",
         "vendor.lineage.fastcharge-V1.0-java",
         "faceunlock_framework",
+        "powerusagefeaturegoogle",
     ],
 
     libs: [
@@ -168,4 +169,10 @@ filegroup {
 android_library_import {
     name: "glide",
     aars: ["libs/glide-4.9.0.aar"],
+}
+
+java_import {
+    name: "powerusagefeaturegoogle",
+    jars: ["libs/powerusagefeaturegoogle.jar"],
+    sdk_version: "current",
 }
