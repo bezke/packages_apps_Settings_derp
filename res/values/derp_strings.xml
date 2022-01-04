@@ -156,4 +156,9 @@
     <string name="status_bar_double_tap_to_sleep_title">Tap to sleep</string>
     <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar or lockscreen to turn off the display</string>
 
+    <!-- Gestures & Keys -->
+    <string name="derp_settings_gestures_keys_title">Gestures &amp; Motions</string>
+    <string name="gesture_gestures_category_title">Gestures</string>
+    <string name="derp_settings_keys_category_title">Keys</string>
+
 </resources>
