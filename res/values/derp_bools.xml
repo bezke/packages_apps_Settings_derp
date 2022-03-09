@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2022 DerpFest
+<!--
+     Copyright (C) 2022 DerpFest
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,11 +14,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
 
-    <!-- Fingerprint -->
-    <dimen name="fingerprint_find_sensor_padding_top">16dp</dimen>
+    <!-- Default value for battery_light_enabled preference -->
+    <bool name="def_battery_light_enabled">true</bool>
+    <!-- Default value for battery light pulse -->
+    <bool name="def_battery_light_pulse">true</bool>
+    <!-- Default value for battery light disabled when fully charged preference -->
+    <bool name="def_battery_light_full_charge_disabled">false</bool>
 
-    <dimen name="package_list_padding_top">16dp</dimen>
 </resources>
