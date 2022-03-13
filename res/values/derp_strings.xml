@@ -619,4 +619,9 @@
     <string name="alarm_blocker_warning_title">Proceed with caution</string>
     <string name="alarm_blocker_warning">Blocking alarms have the potential to cause instability, crashes or data loss.</string>
 
+    <!-- Lawnchair switcher -->
+    <string name="enable_lawnchair_title">Enable Lawnchair</string>
+    <string name="enable_lawnchair_summary">Switch to lawnchair as default launcher and disable pixel launcher</string>
+    <string name="enable_lawnchair_info">Reboot to take effect</string>
+
 </resources>
