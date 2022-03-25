@@ -13,4 +13,10 @@
         <item quantity="other">Bis zu <xliff:g id="device_num">%1$d</xliff:g> Geräte können sich mit diesem Hotspot verbinden</item>
         <item quantity="one">Bis zu <xliff:g id="device_num">%1$d</xliff:g> Gerät kann sich mit diesem Hotspot verbinden</item>
     </plurals>
+
+    <!-- App Lock -->
+    <plurals name="app_lock_summary">
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> App ist gesperrt</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> Apps sind gesperrt</item>
+    </plurals>
 </resources>

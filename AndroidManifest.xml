@@ -128,6 +128,9 @@
     <!-- LiveDisplay -->
     <uses-permission android:name="lineageos.permission.MANAGE_LIVEDISPLAY" />
 
+    <!-- AppLock -->
+    <uses-permission android:name="android.permission.MANAGE_APP_LOCK" />
+
     <application
             android:name=".SettingsApplication"
             android:label="@string/settings_label"
@@ -4539,6 +4542,25 @@
                 <category android:name="com.android.settings.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!-- App Lock Activity -->
+        <activity android:name="org.derpfest.settings.security.applock.AppLockCredentialActivity"
+            android:exported="false"
+            android:permission="android.permission.MANAGE_APP_LOCK"
+            android:excludeFromRecents="true"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.app.action.UNLOCK_APP" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="org.derpfest.settings.security.applock.AppLockSubSettings"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:taskAffinity="com.android.settings.applock"
+            android:launchMode="singleTask" />
 
         <!-- This is the longest AndroidManifest.xml ever. -->
         <receiver android:name="com.google.android.settings.fuelgauge.BatteryBroadcastReceiver" android:exported="true">
