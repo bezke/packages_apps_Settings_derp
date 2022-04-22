@@ -755,4 +755,8 @@
     <!-- Screen resolution -->
     <string name="custom_screen_resolution_title">Benutzerdefinierte Bildschirmauflösung</string>
 
+    <!-- Back gesture haptic -->
+    <string name="back_gesture_haptic_title">Haptisches Feedback bei Zurück-Geste</string>
+    <string name="back_gesture_haptic_summary">Bei Zurück-Geste vibrieren</string>
+
 </resources>

@@ -784,4 +784,8 @@
     <!-- Screen resolution -->
     <string name="custom_screen_resolution_title">Custom screen resolution</string>
 
+    <!-- Back gesture haptic -->
+    <string name="back_gesture_haptic_title">Back gesture haptic</string>
+    <string name="back_gesture_haptic_summary">Vibrate when performing a back gesture</string>
+
 </resources>
