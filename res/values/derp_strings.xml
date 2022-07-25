@@ -948,4 +948,8 @@
     <!-- Hardware info -->
     <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
+
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Daily battery usage chart</string>
+    <string name="daily_battery_usage_chart_summary">View usage for past 24 hours</string>
 </resources>
