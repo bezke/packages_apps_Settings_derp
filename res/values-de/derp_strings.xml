@@ -572,4 +572,9 @@
     <string name="flashlight_on_call_ignore_dnd_summary">Ob im Nicht-Stören-Modus geblinkt werden soll</string>
     <string name="flashlight_on_call_rate_title">Blinkfrequenz</string>
     <string name="flashlight_on_call_rate_summary">Blinkrate der Taschenlampe bei Anruf</string>
+
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Gesten-Navigationsgriff</string>
+    <string name="back_gesture_arrow_message">Animation der Zurück-Geste</string>
+    <string name="back_gesture_arrow_summary">Einen animierten Pfeil für die Zurück-Geste anzeigen</string>
 </resources>
