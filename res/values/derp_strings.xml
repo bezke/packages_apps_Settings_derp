@@ -952,4 +952,8 @@
     <!-- Daily battery usage charge -->
     <string name="daily_battery_usage_chart">Daily battery usage chart</string>
     <string name="daily_battery_usage_chart_summary">View usage for past 24 hours</string>
+
+    <!-- Fingerprint lockout -->
+    <string name="fingerprint_lockout_title">Disable fingerprint lockout</string>
+    <string name="fingerprint_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed fingerprint unlock attempts</string>
 </resources>
