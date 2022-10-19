@@ -611,4 +611,8 @@
     <string name="alarm_blocker_warning_title">Fortfahren auf eigene Gefahr</string>
     <string name="alarm_blocker_warning">Das Blockieren von Alarmen kann Instabilität, Abstürze und Datenverlust verursachen.</string>
 
+    <!-- Lockscreen shortcuts -->
+    <string name="lockscreen_shortcuts_title">Sperrbildschirm Verknüpfungen</string>
+    <string name="lockscreen_shortcuts_summary">Festlegen ob Verknüpfungen angezeigt werden</string>
+
 </resources>
