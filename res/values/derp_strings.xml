@@ -929,4 +929,8 @@
     <!-- Build type -->
     <string name="build_type">Build type</string>
     <string name="build_type_summary">Experimental</string>
+
+    <!-- Misc vibration -->
+    <string name="misc_vibration_category">Miscellaneous</string>
+    <string name="qs_brightness_haptic_feedback_title">Vibrate on changing brigtness</string>
 </resources>
