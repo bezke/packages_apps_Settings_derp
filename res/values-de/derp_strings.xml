@@ -266,10 +266,6 @@
     <string name="backlight_summary_disabled">Deaktiviert</string>
     <string name="backlight_summary_enabled_with_timeout">Für <xliff:g id="timeout">%s</xliff:g> aktiviert</string>
     <string name="backlight_summary_enabled">Aktiviert</string>
-    <string name="disable_navkeys_title">Navigationsleiste aktivieren</string>
-    <string name="disable_navkeys_summary">Navigationstasten deaktivieren und stattdessen eine Navigationsleiste auf dem Bildschirm anzeigen</string>
-    <string name="swap_capacitive_keys_title">Sensortasten tauschen</string>
-    <string name="swap_capacitive_keys_summary">Anordnung der Tasten für Anwendungsverlauf und Zurück tauschen</string>
     <string name="others_settings_title">Weitere Einstellungen</string>
 
 </resources>
