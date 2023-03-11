@@ -9,6 +9,7 @@ import android.provider.Settings;
 
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
+import androidx.preference.SwitchPreference;
 
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnStart;
@@ -16,14 +17,12 @@ import com.android.settingslib.core.lifecycle.events.OnStop;
 
 import com.android.settings.core.TogglePreferenceController;
 
-import com.android.settings.preference.SystemSettingPrimarySwitchPreference;
-
 public class EdgeLightningPreferenceController extends TogglePreferenceController
         implements LifecycleObserver, OnStart, OnStop {
 
     private static final String KEY_EDGE_LIGHTNING = "pulse_ambient_light";
 
-    private SystemSettingPrimarySwitchPreference mPreference;
+    private SwitchPreference mPreference;
     private SettingObserver mSettingObserver;
 
     public EdgeLightningPreferenceController(Context context, String preferenceKey) {
