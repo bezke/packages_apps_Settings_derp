@@ -95,12 +95,6 @@
     <string name="incall_vibrate_call_wait_title">Vibriere beim Anklopfen</string>
     <string name="incall_vibrate_disconnect_title">Vibriere beim Beenden des Anrufs</string>
 
-    <!-- Package details -->
-    <string name="package_details_group_title">Paketdetails</string>
-    <string name="package_name">Paketname</string>
-    <string name="package_version">App-Version</string>
-    <string name="package_version_text"><xliff:g id="version_num">%1$s</xliff:g></string>
-
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Einmalige automatische Helligkeitseinstellung</string>
     <string name="auto_brightness_one_shot_summary">Helligkeitsanpassung erfolgt nur beim Einschalten des Bildschirms</string>
