@@ -888,4 +888,11 @@
     <string name="navbar_tuner_title">Navigationsleiste</string>
     <string name="navbar_tuner_summary">Anpassen des Navigationsleisten-Layouts</string>
 
+    <!-- Prevent pointer accleration -->
+    <string name="prevent_pointer_acceleration_title">Zeigerbeschleunigung</string>
+    <string name="prevent_pointer_acceleration_full">Voll (Zeiger + Rad)</string>
+    <string name="prevent_pointer_acceleration_wheel">Nur Rad</string>
+    <string name="prevent_pointer_acceleration_pointer">Nur Zeiger</string>
+    <string name="prevent_pointer_acceleration_none">Nichts</string>
+
 </resources>
