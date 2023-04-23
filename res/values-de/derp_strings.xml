@@ -895,4 +895,12 @@
     <string name="prevent_pointer_acceleration_pointer">Nur Zeiger</string>
     <string name="prevent_pointer_acceleration_none">Nichts</string>
 
+    <!-- Transistent task mode (Tadi mode) -->
+    <string name="transistent_task_mode_title">Transistenter Aufgabenmodus</string>
+    <string name="transistent_task_mode_dialog_title">Transistenter Aufgabenmodus (Starte Dein Gerät neu, um die Änderungen zu übernehmen)</string>
+    <string name="transistent_task_mode_summary">Entfernt Apps aus dem Anwendungsverlauf, wenn die letzte Aktivität mit der Zurück-Schaltfläche geschlossen wird.</string>
+    <string name="transistent_task_mode_default">Deaktivieren (Standard)</string>
+    <string name="transistent_task_mode_allow">Aktivieren (Einige Apps bleiben erhalten)</string>
+    <string name="transistent_task_mode_force">Erzwingen (App-Verhalten überschreiben)</string>
+
 </resources>
