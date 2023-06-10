@@ -4652,6 +4652,17 @@
             </intent-filter>
         </receiver>
 
+        <!-- Charging control settings (Battery category) -->
+        <activity-alias
+            android:name=".derp.health.ChargingControlSettings"
+            android:label="@string/charging_control_title"
+            android:targetActivity="PartsActivity">
+            <intent-filter>
+                <action android:name="com.android.settings.derp.health.CHARGING_CONTROL_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+
         <!-- This is the longest AndroidManifest.xml ever. -->
 
         <!-- DerpSpace -->
