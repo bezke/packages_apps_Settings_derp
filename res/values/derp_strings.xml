@@ -911,4 +911,12 @@
     <string name="fingerprint_wake_unlock_title">Touch fingerprint to unlock</string>
     <string name="fingerprint_wake_unlock_touch">Listens for events while the screen is off</string>
     <string name="fingerprint_wake_unlock_press">Only listens for events once the screen is on</string>
+
+    <!-- Quick pulldown -->
+    <string name="status_bar_quick_qs_pulldown_title">Quick pulldown</string>
+    <string name="status_bar_quick_qs_pulldown_summary_left_edge">Left edge of the status bar pulls down Quick Settings</string>
+    <string name="status_bar_quick_qs_pulldown_summary_right_edge">Right edge of the status bar pulls down Quick Settings</string>
+    <string name="status_bar_quick_qs_pulldown_off">Off</string>
+    <string name="status_bar_quick_qs_pulldown_left">Left</string>
+    <string name="status_bar_quick_qs_pulldown_right">Right</string>
 </resources>

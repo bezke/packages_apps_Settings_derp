@@ -849,4 +849,11 @@
     <string name="navbar_tuner_title">Navigationsleiste</string>
     <string name="navbar_tuner_summary">Anpassen des Navigationsleisten-Layouts</string>
 
+    <!-- Quick pulldown -->
+    <string name="status_bar_quick_qs_pulldown_title">Schnelles Herunterziehen</string>
+    <string name="status_bar_quick_qs_pulldown_summary_left_edge">Am linken Rand der Statusleiste werden die Schnelleinstellungen geöffnet</string>
+    <string name="status_bar_quick_qs_pulldown_summary_right_edge">Der rechte Rand der Statusleiste öffnet die Schnelleinstellungen</string>
+    <string name="status_bar_quick_qs_pulldown_off">Aus</string>
+    <string name="status_bar_quick_qs_pulldown_left">Links</string>
+    <string name="status_bar_quick_qs_pulldown_right">Rechts</string>
 </resources>
